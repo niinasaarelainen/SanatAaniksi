@@ -1,0 +1,15 @@
+Tekstiä tiedostosta luettaessa (tai tiedostoon tallennettaessa) 
+Java joutuu päättelemään käyttöjärjestelmän käyttämän merkistön. 
+Merkistön tuntemusta tarvitaan sekä tekstin tallentamiseen 
+tietokoneen kovalevylle binäärimuotoiseksi että binäärimuotoisen 
+datan tekstiksi kääntämiseksi tekstiksi.
+Olen jo pitkään suunnitellut pöytää tyttöjen huoneeseen.
+Tällä seinustalla oli ennen peilipöytä ja keittiöleikkiin tarvittavia ,
+kaikki oli ollut käyttämättä jo pitkään käyttämättä.
+Aika siis pakata pienten tyttöjen lelut pois ja tuoda tilalle kirjoituspöytä 
+Vähän ehkä surettaa, missä mun pikkutytöt on..
+Mutta totta kai kannattaa tehdä tilaa niille leikeille mitä todellisuudessa .
+Ja Petsarit on käytössä päivittäin Petsarit!
+Nuket jätin vielä huoneeseen, koska niille on ihan hyvin tilaa.
+Harvemmin nekään ovat käytössä, mutta joskus kuitenkin.
+On sitten ainakin pienemmällä serkkulikalla jotain tekemistä kun meille 
